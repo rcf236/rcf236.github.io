@@ -10386,7 +10386,7 @@ __WEBPACK_IMPORTED_MODULE_0_vue___default.a.use(__WEBPACK_IMPORTED_MODULE_1__dev
 
 new __WEBPACK_IMPORTED_MODULE_0_vue___default.a({
     router: __WEBPACK_IMPORTED_MODULE_2__router_js__["a" /* default */]
-}).$mount('#app');
+}).$mount('#root');
 
 /***/ }),
 /* 4 */
